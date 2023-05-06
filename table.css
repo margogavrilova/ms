@@ -1,0 +1,35 @@
+p{
+	color: white;
+	background-color: #5A904D;
+	font-size: 50px;
+}
+table{
+	border: double 5px #607D59;
+	width: 50%;
+}
+body{
+	background-color: #BCD7B5;
+}
+ th,td{
+ 	border: solid 2px #47CD4D;
+ 	width: 25%;
+ 	height: 1cm;
+ 	font-size: 24px;
+ }
+ tr:hover{
+ 	background-color: #9BFD82;
+ }
+ td:hover{
+ 	background-image: url(https://cdn.dribbble.com/users/140227/screenshots/6439295/minimal-geometric-background-dynamic-shapes-composition-vector.gif);
+ 	text-align: center;
+ 	color: white;
+ 	font-size: 2em;
+ }
+ tr:nth-child(even){
+ 	background-color: #A6E136;
+ }
+caption{
+	font-size: 50px;
+	color: white;
+	background-image: url(https://png.pngtree.com/background/20210717/original/pngtree-green-liquid-marble-background-agate-texture-picture-image_1444430.jpg);
+}
